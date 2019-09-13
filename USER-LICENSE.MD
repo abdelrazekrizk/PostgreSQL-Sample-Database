@@ -1,5 +1,9 @@
-**_Copyright (c) 2019, abdelrazek All rights reserved._**
-Permission is hereby granted, to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+**_Copyright (c) 2019, abdelrazek All rights reserved._** <https://abdelrazekrizk.github.io/>
+
+Permission is hereby granted, to deal in the Software without restriction, 
+including without limitation the rights to use, copy, modify, merge, publish, copies of the Software,
+and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
 Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
