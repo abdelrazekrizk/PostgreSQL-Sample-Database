@@ -1,4 +1,4 @@
-#_Copyright (c) 2010-2019, All Rights Reserved by Abdelrazek Rizk ._ **<https://abdelrazekrizk.github.io/>**
+# Copyright (c) 2010-2019, All Rights Reserved by Abdelrazek Rizk ._ **<https://abdelrazekrizk.github.io/>**
 
 All rights reserved. No part of this Software may be reproduced, distributed, or transmitted in any form or by any means
 without the prior written permission of the publisher,
