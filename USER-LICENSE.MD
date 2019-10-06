@@ -1,7 +1,11 @@
-**_Copyright (c) 2019, abdelrazek All rights reserved._** <https://abdelrazekrizk.github.io/>
+#**_Copyright (c) 2010-2019, All Rights Reserved by Abdelrazek Rizk ._** **<https://abdelrazekrizk.github.io/>**
 
-Permission is hereby granted, to deal in the Software without restriction, 
-including without limitation the rights to use, copy, modify, merge, publish, copies of the Software,
+All rights reserved. No part of this Software may be reproduced, distributed, or transmitted in any form or by any means
+without the prior written permission of the publisher,
+other noncommercial uses permitted by copyright law. For permission requests, write to the publisher, addressed “Attention: Permissions Coordinator,” at the address below.
+
+**<https://abdelrazekrizk.github.io/>**
+
 and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
